@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Learn Js in 2022",
+      "content": "JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. Over 97% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, vitae saepe. Eos, voluptatum delectus, explicabo nam maxime quas. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae adipisci pariatur magnam quos illum aliquid cupiditate dolorem debitis minus ipsa. Quod, voluptates ipsam necessitatibus perspiciatis aut, aliquid dolorum libero rem impedit quas perferendis minus explicabo autem. Ex cumque explicabo reiciendis!",
+      "author": "Ashadul Mridha"
+    },
+    {
+      "title": "Learn PY in 2022",
+      "content": "Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, vitae saepe. Eos, voluptatum delectus, explicabo nam maxime quas. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae adipisci pariatur magnam quos illum aliquid cupiditate dolorem debitis minus ipsa. Quod, voluptates ipsam necessitatibus perspiciatis aut, aliquid dolorum libero rem impedit quas perferendis minus explicabo autem. Ex cumque explicabo reiciendis!",
+      "author": "Ashadul Mridha"
+    },
+    {
+      "title": "Learn Css in 2022",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, vitae saepe. Eos, voluptatum delectus, explicabo nam maxime quas. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae adipisci pariatur magnam quos illum aliquid cupiditate dolorem debitis minus ipsa. Quod, voluptates ipsam necessitatibus perspiciatis aut, aliquid dolorum libero rem impedit quas perferendis minus explicabo autem. Ex cumque explicabo reiciendis!",
+      "author": "Ashadul Mridha"
+    }
+]

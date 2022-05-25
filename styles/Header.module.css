@@ -1,0 +1,19 @@
+.mainnav {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.mainnav > li {
+  margin: 0px 8px;
+  cursor: pointer;
+  color: black;
+  font-weight: 500;
+}
+.mainnav > li:hover {
+  color: brown;
+}
+
+.myImg{
+  border-radius: 10px;
+  margin: 10px 0px;
+}
